@@ -3,7 +3,7 @@
 import random
 import time
 
-langs_str = "as bd bn dg en gom gu hi kha kn ks mai ml mni mr ne or pa sa sat sd ta te ur"
+langs_str = "as bd bn dg en gom gu hi kha kn ks mai ml mni mr ne or pa sa sat sd ta te ur bp mg"
 langs = langs_str.split()
 print(f'Langs: {langs}')
 
